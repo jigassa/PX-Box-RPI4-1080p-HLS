@@ -31,4 +31,5 @@ vlc --fullscreen --no-video-title-show --loop /home/pi/Playlist.m3u8
 ------------------------------AUTORUN------------------------------
 sudo nano .profile
 #add at the end
+git clone https://github.com/jigassa/PX-Box-RPI4-1080p-HLS.git || sudo rm -R /home/pi/PX-Box-RPI4-1080p-HLS/ && git clone https://github.com/jigassa/PX-Box-RPI4-1080p-HLS.git
 sh pxbox.sh &
