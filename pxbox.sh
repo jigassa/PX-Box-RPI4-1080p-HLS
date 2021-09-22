@@ -4,7 +4,7 @@
 
 # Setup
 clear
-cvlc --fullscreen --auto-preparse --no-video-title-show --no-list --no-list-verbose --loop /home/pi/Playlist.m3u8 &
+cvlc --fullscreen --auto-preparse --no-video-title-show --no-list --no-list-verbose --loop /home/pi/PX-Box-RPI4-1080p-HLS/Playlist.m3u8 &
 clear
 sleep 2
 clear
