@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+/home/pi/PXLOOP.mp4
+#rtmp://pxslive.ddns.net:1935/live/PXSports
+http://pxslive.ddns.net/PXSports.m3u8
