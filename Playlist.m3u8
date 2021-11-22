@@ -2,4 +2,5 @@
 #EXTVLCOPT:network-caching=1000
 /home/pi/PXLOOP.mp4
 #rtmp://pxslive.ddns.net:1935/live/PXSports
-http://pxslive.ddns.net/PXSports.m3u8
+#http://pxslive.ddns.net/PXSports.m3u8
+rtsp://201.132.119.114/video1+audio1
